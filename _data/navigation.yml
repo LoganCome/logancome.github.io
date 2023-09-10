@@ -13,8 +13,8 @@ main:
     url: "/#-honors-and-awards"
 
   - title: "Educations"
-    url: "/#-selected-publications-[github]-[video]"
-
+    url: "/#-selected-publications-github-video"
+  
   - title: "Invited Talks"
     url: "/#-invited-talks"
 
