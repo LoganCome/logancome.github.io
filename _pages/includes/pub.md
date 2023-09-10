@@ -11,6 +11,7 @@
 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 </div>
 </div>
+- ``ICML 2023`` [Make-An-Audio: Text-To-Audio Generation with Prompt-Enhanced Diffusion Models](https://text-to-audio.github.io/paper.pdf), Rongjie Huang, Jiawei Huang, Dongchao Yang, **Yi Ren**, Luping liu, Mingze Li, Zhenhui Ye, Jinglin Liu, Xiang Yin, Zhou Zhao
 - ``IEEE T-ASE`` RoboEC2: A Novel Cloud Robotic System with Dynamic Network Offloading Assisted by Amazon EC2. **Boyi Liu**, Lujia Wang and Ming Liu.
 - ``IEEE RAL & IROS-2019`` Lifelong federated reinforcement learning: a learning architecture for navigation in cloud robotic systems. **Boyi Liu**, Lujia Wang, Ming Liu and Cheng-Zhong Xu.
 - ``IEEE RAL & ICRA-2020`` Federated imitation learning: A novel framework for cloud robotic systems with heterogeneous sensor data. **Boyi Liu**, Lujia Wang, Ming Liu and Cheng-Zhong Xu.
