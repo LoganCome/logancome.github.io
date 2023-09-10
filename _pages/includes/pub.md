@@ -1,4 +1,4 @@
-# 📝 Selected Publications [Github](www.github.io)
+# 📝 Selected Publications [[Github]](www.github.io) [[Video]](www.github.io)
 
 - ![IEEE T-ASE](https://img.shields.io/badge/IEEE%20T--ASE-blue)
 RoboEC2: A Novel Cloud Robotic System with Dynamic Network Offloading Assisted by Amazon EC2.
