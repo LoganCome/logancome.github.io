@@ -6,6 +6,6 @@ My research interest includes robotics and federated learning. Papers published 
 
 As the founding chairman of both the IEEE Hainan University Student Branch and the Hainan University Robotics and Artificial Intelligence Association, I have been volunteering to promote education in Robotics and AI, providing numerous students with opportunities to learn in this field. In recognition of my efforts, I was honored with the Education Achievement Award by the government.
 
-I attempted to commercialize my research and established Hainan Data-Vigor Technology Co.LTD, which is now a National High-tech S\&M Enterprise. And also a co-funder of Hainan H.R.Z.C. Technology Co.LTD, which is now a National High-tech Enterprise. I have now returned to full-time research to obtain my Ph.D.
+I attempted to commercialize my research and established Hainan Data-Vigor Technology Co.LTD, which is now a National High-tech S/M Enterprise. And also a co-funder of Hainan H.R.Z.C. Technology Co.LTD, which is now a National High-tech Enterprise. I have now returned to full-time research to obtain my Ph.D.
 
 Interests: Volleyball, Tennis, Table Tennis, Baseball (certified national-level referee)
