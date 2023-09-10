@@ -1,7 +1,6 @@
 
 # 📝 Selected Publications
-<div class='paper-box-text' markdown="1">
-- ``IEEE T-ASE`` RoboEC2: A Novel Cloud Robotic System with Dynamic Network Offloading Assisted by Amazon EC2. **Boyi Liu**, Lujia Wang and Ming Liu.
+- <div class="badge">IEEE T-ASE</div> RoboEC2: A Novel Cloud Robotic System with Dynamic Network Offloading Assisted by Amazon EC2. **Boyi Liu**, Lujia Wang and Ming Liu.
 - ``RAL & IROS-2019`` Lifelong federated reinforcement learning: a learning architecture for navigation in cloud robotic systems. **Boyi Liu**, Lujia Wang, Ming Liu and Cheng-Zhong Xu.
 - ``RAL & ICRA-2020`` Federated imitation learning: A novel framework for cloud robotic systems with heterogeneous sensor data. **Boyi Liu**, Lujia Wang, Ming Liu and Cheng-Zhong Xu.
 - ``ICRA-2021`` Peer-assisted robotic learning: a data-driven collaborative learning approach for cloud robotic systems. **Boyi Liu**, Lujia Wang, Xinquan Cheng, Lexiong Huang, Dong Han and Cheng-Zhong Xu.
