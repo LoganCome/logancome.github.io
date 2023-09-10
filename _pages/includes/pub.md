@@ -1,5 +1,5 @@
 
-# 📝 Selected Publications
+# 📝 Selected Publications [[GitHub]](https://www.baidu.com) [[Video]](https://www.baidu.com)
 - ![IEEE T-ASE](https://img.shields.io/badge/IEEE%20T--ASE-blue)
 RoboEC2: A Novel Cloud Robotic System with Dynamic Network Offloading Assisted by Amazon EC2. **Boyi Liu**, Lujia Wang and Ming Liu.
 
