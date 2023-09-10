@@ -6,13 +6,13 @@ main:
   - title: "News"
     url: "/#-news"
 
-  - title: "Robot Creations"
-    url: "/#-publication"
+  - title: "Publications"
+    url: "/#-publications"
 
   - title: "Honors and Awards"
     url: "/#-honors-and-awards"
 
-  - title: "Publications"
+  - title: "Educations"
     url: "/#-educations"
 
   - title: "Invited Talks"
