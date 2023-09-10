@@ -4,7 +4,7 @@ Prior to this, I obtained my Bachelor's degree from Hainan University with the b
 
 My research interest includes robotics and federated learning. Papers published in top robotics conferences/journals as TASE, RAL, ICRA, IROS, IJCNN, etc. I was the winner of Outstanding Paper Award of CCF National Conference of Theoretical Computer Science in 2017.
 
-I am committed to volunteer work and took part in providing educational support to underprivileged areas (贫困地区支教) during my university years. Moreover, as the founding chairman of IEEE Hainan University Student Branch and the Robotics and Artificial Intelligence Association, I have devoted myself to promoting awareness and education in robotics and AI, making a difference for numerous students from educationally disadvantaged regions. As a result of these endeavors, I was honored with the Educational Achievement Award from the government.
+I am committed to volunteer work and took part in providing educational support to underprivileged areas (贫困地区支教) During my university years. As the founding chairman of IEEE Hainan University Student Branch and the Robotics and AI Association, I strived to promoting awareness and education in robotics and AI, making a difference for numerous students from educationally disadvantaged regions. As a result of these endeavors, I was honored with the Educational Achievement Award from the government.
 
 I attempted to commercialize my research and established Hainan Data-Vigor Technology Co.LTD, which is now a National High-tech S/M Enterprise. And also a co-funder of Hainan H.R.Z.C. Technology Co.LTD, which is now a National High-tech Enterprise. I have now returned to full-time research to obtain my Ph.D.
 
