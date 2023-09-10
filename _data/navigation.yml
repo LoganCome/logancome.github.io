@@ -6,14 +6,14 @@ main:
   - title: "News"
     url: "/#-news"
 
+  - title: "Publications"
+    url: "/#-selected-publications-github-video"
+
   - title: "Robot Creations"
     url: "/#-robot-creations"
 
   - title: "Honors and Awards"
     url: "/#-honors-and-awards"
-
-  - title: "Educations"
-    url: "/#-selected-publications-github-video"
   
   - title: "Invited Talks"
     url: "/#-invited-talks"
