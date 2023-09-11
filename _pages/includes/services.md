@@ -1,4 +1,4 @@
-# ❤️ Services
+#❤️ Services
 - *Founding president*, IEEE Hainan University Student Branch
 - *Founding president*, Robotics and Artificial Intelligence Association of Hainan University
 - *Volunteer*, Volunteer teaching and fundraising for children in poor areas
