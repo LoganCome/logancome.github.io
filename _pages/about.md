@@ -20,6 +20,9 @@ redirect_from:
 {% include_relative includes/news.md %}
 {% include_relative includes/pub.md %}
 {% include_relative includes/robot.md %}
+{% include_relative includes/honors.md %}
+{% include_relative includes/services.md %}
+{% include_relative includes/company.md %}
 
 # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
