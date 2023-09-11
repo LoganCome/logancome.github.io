@@ -26,7 +26,7 @@ Author: **Boyi Liu**, [Yilong Sun@SCUT](https://scholar.google.com/citations?use
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Autonomous navigation pesticide spraying robot</div><img src='images/Creation02.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Macau's First Autonomous Vehicle’</div><img src='images/Macau.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **Year: 2020**
