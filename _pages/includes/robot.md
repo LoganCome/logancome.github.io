@@ -25,3 +25,15 @@ Author: **Boyi Liu**, [Yilong Sun@SCUT](https://scholar.google.com/citations?use
 - National College Students' Agricultural Engineering Innovation/Entrepreneurship Competition, Grand Prizes, evaluations from 3 CAS/CAE Members etc.
 </div>
 </div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Autonomous navigation pesticide spraying robot</div><img src='images/Creation02.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**Year: 2020**
+
+[**Video**](https://www.baidu.com)
+
+**Project leader**: [Cheng-Zhong Xu](https://www.fst.um.edu.mo/personal/czxu/), [SKL-IOTSC of UM](https://skliotsc.um.edu.mo/)
+**Partner**: Students and faculty members from [SIAT-CAS](https://siat.cas.cn/), [Baidu](https://www.baidu.com/), [Hailiang](https://www.haylion.cn/index_e.jsp), etc. [Beizhang Chen](https://scholar.google.com/citations?user=PsZEzykAAAAJ&hl=zh-CN) and I participated in the original testing work of the autonomous bus together.
+</div>
+</div>
