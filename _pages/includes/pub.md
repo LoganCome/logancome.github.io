@@ -1,4 +1,4 @@
-# 📝 Selected Publications [Github](https://github.com/LoganCome) [Video](https://www.youtube.com/channel/UCAHly31mRKnrx2zlL7GKPGg)
+# 📝 Selected Publications [Github](https://github.com/LoganCome) [YouTube](https://www.youtube.com/channel/UCAHly31mRKnrx2zlL7GKPGg) [Bilibili](https://space.bilibili.com/276393957)
 
 - ![IEEE T-ASE](https://img.shields.io/badge/IEEE%20T--ASE-blue)
 RoboEC2: A Novel Cloud Robotic System with Dynamic Network Offloading Assisted by Amazon EC2.
