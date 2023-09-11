@@ -1,5 +1,5 @@
 # 📝 Robot Creations 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Agricultural pest monitoring robot</div><img src='images/1062a80e869ef1c6a6d7915029c74d0.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box' margin-top: 0><div class='paper-box-image'><div><div class="badge">Agricultural pest monitoring robot</div><img src='images/1062a80e869ef1c6a6d7915029c74d0.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **Year: 2015-2016**
