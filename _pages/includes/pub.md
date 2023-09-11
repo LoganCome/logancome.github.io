@@ -16,6 +16,11 @@ Federated imitation learning: A novel framework for cloud robotic systems with h
 Peer-assisted robotic learning: a data-driven collaborative learning approach for cloud robotic systems.
 <br>**Boyi Liu**, Lujia Wang, Xinquan Cheng, Lexiong Huang, Dong Han, and Cheng-Zhong Xu.
 
-- ![CCF-NCTCS](https://img.shields.io/badge/NCTCS--2017-blue)
+- ![CCF-NCTCS](https://img.shields.io/badge/CCF--NCTCS-blue)
 (**Outstanding Paper Award**) Singular point probability improve LSTM network performance for long-term traffic flow prediction.
 <br>**Boyi Liu**, Jieren Cheng, Kuanqi Cai, Pengchao Shi, and Xiangyan Tang.
+
+- ![ICAIS-2017](https://img.shields.io/badge/ICAIS--2017-blue)
+(**Outstanding Paper Award**) Design and Test of the Intelligent Rubber Tapping Technology Evaluation Equipment Based on Cloud Model.
+<br>Jieren Cheng, Kuanqi Cai, **Boyi Liu**, and Xiangyan Tang.
+
