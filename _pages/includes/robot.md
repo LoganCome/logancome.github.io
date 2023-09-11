@@ -2,6 +2,8 @@
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">2016: Agricultural pest monitoring robot based on Beidou navigation and infrared thermal imaging technology</div><img src='images/1062a80e869ef1c6a6d7915029c74d0.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
+**Year: 2015-2016**
+
 [**Video**](https://www.baidu.com)
 
 **Boyi Liu**, [Kuanqi Cai@TUM](https://scholar.google.com/citations?user=3Y9wVfMOtP4C&hl=en), Pengchao Shi@Alibaba, Shunwei Huang@JD.com, etc.
@@ -14,11 +16,13 @@
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Autonomous navigation pesticide spraying robot</div><img src='images/Creation02.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+**Year: 2016-2017**
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+[**Video**](https://www.baidu.com)
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+**Boyi Liu**, [Yilong Sun@SCUT](https://scholar.google.com/citations?user=cWaTZO4AAAAJ&hl=zh-CN), [Bingjie Yan@CAS-ICT](https://scholar.google.com/citations?user=DVsgN1sAAAAJ&hl=zh-CN), [Yifan Yang@USC](https://rayford295.github.io/), etc.
+
+**Award:**
+- National College Students' Agricultural Engineering Innovation/Entrepreneurship Competition, Grand Prizes, evaluations from 3 CAS/CAE Members etc.
 </div>
 </div>
