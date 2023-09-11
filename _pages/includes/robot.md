@@ -31,7 +31,7 @@ Author: **Boyi Liu**, [Yilong Sun@SCUT](https://scholar.google.com/citations?use
 
 **Year: 2020**
 
-[**Video**](https://www.baidu.com)
+[**Video**](https://youtu.be/Vj2M7U4S278)
 
 **Project leader**: [Cheng-Zhong Xu](https://www.fst.um.edu.mo/personal/czxu/), [SKL-IOTSC of UM](https://skliotsc.um.edu.mo/)
 
