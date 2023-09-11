@@ -1,3 +1,5 @@
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- "Outstanding Talent Program", Hainan Province
+- Grand Prize, Silk Road Robot Creative Design Competition, [UASR](http://uasr.xjtu.edu.cn/sy1/sy.htm) and [IKCEST](https://www.ikcest.org/index.htm) of [UNESCO](https://www.unesco.org/en)
+- Grand Prize, Programming Design Ladder Competition, *Coach*
+- etc.
