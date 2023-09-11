@@ -23,6 +23,3 @@ redirect_from:
 {% include_relative includes/honors.md %}
 {% include_relative includes/services.md %}
 {% include_relative includes/company.md %}
-
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
