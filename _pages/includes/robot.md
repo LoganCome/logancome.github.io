@@ -5,7 +5,7 @@
 
 [**Video**](https://www.baidu.com)
 
-**Boyi Liu**, [Kuanqi Cai@TUM](https://scholar.google.com/citations?user=3Y9wVfMOtP4C&hl=en), Pengchao Shi@Alibaba, Shunwei Huang@JD.com, etc.
+Author: **Boyi Liu**, [Kuanqi Cai@TUM](https://scholar.google.com/citations?user=3Y9wVfMOtP4C&hl=en), Pengchao Shi@Alibaba, Shunwei Huang@JD.com, etc.
 
 **Award:**
 - National College Students' Agricultural Engineering Innovation/Entrepreneurship Competition, Grand Prizes, evaluations from 3 CAS/CAE Members etc.
@@ -19,7 +19,7 @@
 
 [**Video**](https://www.baidu.com)
 
-**Boyi Liu**, [Yilong Sun@SCUT](https://scholar.google.com/citations?user=cWaTZO4AAAAJ&hl=zh-CN), [Bingjie Yan@CAS-ICT](https://scholar.google.com/citations?user=DVsgN1sAAAAJ&hl=zh-CN), [Yifan Yang@USC](https://rayford295.github.io/), etc.
+Author: **Boyi Liu**, [Yilong Sun@SCUT](https://scholar.google.com/citations?user=cWaTZO4AAAAJ&hl=zh-CN), [Bingjie Yan@CAS-ICT](https://scholar.google.com/citations?user=DVsgN1sAAAAJ&hl=zh-CN), [Yifan Yang@USC](https://rayford295.github.io/), etc.
 
 **Award:**
 - National College Students' Agricultural Engineering Innovation/Entrepreneurship Competition, Grand Prizes, evaluations from 3 CAS/CAE Members etc.
