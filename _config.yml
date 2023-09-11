@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Logan"
-description              : "PhD candidate, HKUST"
+description              : "Focusing on Robotics, Federated Learning."
 repository               : "LoganCome/LoganCome.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Logan"
   avatar           : "images/icon.jpg"
-  bio              : "Focusing on Robotics, Federated Learning."
+  bio              : "PhD candidate, HKUST"
   location         : "Hong Kong"
   employer         :
   pubmed           : 
