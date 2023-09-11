@@ -3,7 +3,7 @@
 <div class='paper-box-text' markdown="1">
 **Year: 2015-2016**
 
-[**Video**](https://www.baidu.com)
+[**Video**](https://youtu.be/GeXpZYaExoU)
 
 Author: **Boyi Liu**, [Kuanqi Cai@TUM](https://scholar.google.com/citations?user=3Y9wVfMOtP4C&hl=en), Pengchao Shi@Alibaba, Shunwei Huang@JD.com, etc.
 
@@ -17,7 +17,7 @@ Author: **Boyi Liu**, [Kuanqi Cai@TUM](https://scholar.google.com/citations?user
 
 **Year: 2016-2017**
 
-[**Video**](https://www.baidu.com)
+[**Video**](https://youtu.be/GYKpDsY-BxE)
 
 Author: **Boyi Liu**, [Yilong Sun@SCUT](https://scholar.google.com/citations?user=cWaTZO4AAAAJ&hl=zh-CN), [Bingjie Yan@CAS-ICT](https://scholar.google.com/citations?user=DVsgN1sAAAAJ&hl=zh-CN), [Yifan Yang@USC](https://rayford295.github.io/), etc.
 
