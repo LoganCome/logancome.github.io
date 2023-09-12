@@ -37,6 +37,6 @@ Author: **Boyi Liu**, [Yilong Sun@SCUT](https://scholar.google.com/citations?use
 
 **Partner**: Students and faculty members from [SIAT-CAS](https://siat.cas.cn/), [Baidu](https://www.baidu.com/), [Hailiang](https://www.haylion.cn/index_e.jsp), etc. 
 
-[Beizhang Chen](https://scholar.google.com/citations?user=PsZEzykAAAAJ&hl=zh-CN) and I participated in the original testing work of the autonomous bus together.
+[Beizhang Chen](https://scholar.google.com/citations?user=PsZEzykAAAAJ&hl=zh-CN) and I participated in the original testing work for the autonomous bus in Hefei→Zhuhai→Macau together.
 </div>
 </div>
