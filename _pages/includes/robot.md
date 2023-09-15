@@ -27,7 +27,7 @@
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Mini Agricultural Robot Function Verifier</div><img src='images/pest.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Mini Agricultural Robot Function Verifier</div><img src='images/pest.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **Year: 2014**
