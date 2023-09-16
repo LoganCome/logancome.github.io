@@ -60,6 +60,8 @@
 
 **Video:** [YouTube](https://youtu.be/Dg9xNsSrWbs) [Bilibili](https://www.bilibili.com/video/BV1Qb411n7vf?t=207.6)
 
-**Collaborators:** Yandong Liu@DLU, Lexiong Huang@Huawei, Zhongjing Zhang@Huawei, Dong Han@Tsinghua etc. 
+**Collaborators:** Yandong Liu@DLU, Lexiong Huang@Huawei, Zhongjing Zhang@Huawei, Dong Han@Tsinghua etc.
+
+<span class='show_paper_citations' data='FrhicG4AAAAJ:bEWYMUwI8FkC'></span>
 </div>
 </div>
