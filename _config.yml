@@ -6,7 +6,7 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Logan"
+title                    : "Logan B. Liu"
 description              : "Focusing on Robotics, Federated Learning."
 repository               : "LoganCome/LoganCome.github.io"
 google_scholar_stats_use_cdn : true
@@ -21,7 +21,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Logan"
+  name             : "Logan B. Liu"
   avatar           : "images/icon.jpg"
   bio              : "PhD candidate, Jun's Group@HKUST"
   location         : "Hong Kong"
